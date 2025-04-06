@@ -1,2 +1,10 @@
 # Python code to print "Hello World"
 print ("Hello World")
+
+
+
+a = int(input("Enter value for a"))
+b = int(input("Enter value for b"))
+
+print("The number you have entered for a is ", a)
+print("The number you have entered for b is ", b)
