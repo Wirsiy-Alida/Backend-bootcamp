@@ -1,0 +1,7 @@
+>>> price = 100
+>>> qty = 5
+>>> total = price*qty
+>>> total
+500
+>>> print ("Total = ", total)
+Total = 500
