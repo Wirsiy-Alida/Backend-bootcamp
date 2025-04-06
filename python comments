@@ -1,0 +1,4 @@
+# Standalone single line comment is placed here
+def greet():
+   print("Hello, World!")
+greet()
