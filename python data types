@@ -1,0 +1,24 @@
+var1 = 1       # int data type
+var2 = True    # bool data type
+var3 = 10.023  # float data type
+var4 = 10+3j   # complex data type
+
+Numeric Data Types
+int
+flot
+complex
+String Data Types
+Sequence Data Types
+list
+tuple
+range
+Binary Data Types
+bytes
+bytearray
+memoryview
+Dictionary Data Type
+Set Data Type
+set
+frozenset
+Boolean Data Type
+None Type
