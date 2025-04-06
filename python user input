@@ -1,0 +1,7 @@
+#! /usr/bin/python3.11
+
+name = "Kiran"
+city = "Hyderabad"
+
+print ("Hello My name is", name)
+print ("I am from", city)
